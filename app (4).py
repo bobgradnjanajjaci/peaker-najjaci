@@ -11,9 +11,9 @@ from urllib.parse import urlparse
 app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA
-PANEL_URL = "https://crescitaly.com/api/v2"
-API_KEY = "6c89725ce16bf76801656f6dd7977e51"
-SERVICE_ID = 23574  # TikTok Custom Comments (Min: 5)
+PANEL_URL = "https://peakerr.com/api/v2"
+API_KEY = "4f02c367fb5166b6602f1b9e4385cd7b"
+SERVICE_ID = 27194  # TikTok Custom Comments (Min: 5)
 
 # 🔁 60 SPINTAX ŠABLONA (identična inline struktura varijacija)
 SPINTAX_TEMPLATES = [
